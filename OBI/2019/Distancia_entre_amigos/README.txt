@@ -17,7 +17,9 @@ Informações sobre a pontuação
 Em um conjunto de casos de teste somando 25 pontos, N ≤ 104 e Ai ≤ 104
 Em um conjunto de casos de teste somando 25 pontos, Ai ≤ 100
 Em um conjunto de casos de teste somando 50 pontos, nenhuma restrição adicional
+
 Exemplos
+
 Entrada
 14
 2 3 1 6 4 3 7 5 6 4 5 3 1 1
