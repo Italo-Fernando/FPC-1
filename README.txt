@@ -1,0 +1,1 @@
+Repositório dedicado para atividades, estruturas de dados, algoritmos e questões aprendidas/resolvidas durante a disciplina de Fundamentos para Problemas Computacionais 1
